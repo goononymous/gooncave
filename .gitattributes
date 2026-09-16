@@ -1,0 +1,4 @@
+wwwroot/_framework/** -text
+*.wasm binary
+*.js -text
+*.dll binary
